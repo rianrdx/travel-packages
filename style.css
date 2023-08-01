@@ -66,6 +66,10 @@ body {
   line-height: 22px;
 }
 
+#footer a:hover {
+  color: #EE24FF;
+}
+
 #img {
   width: 100vw;
   position: fixed;
